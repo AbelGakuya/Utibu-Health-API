@@ -34,11 +34,11 @@ Start the server using npm start.
 
 **Endpoints**
 
-**/api/auth/login: POST request to authenticate users and generate JWT token
+**/api/auth/login*: POST request to authenticate users and generate JWT token
 
-**/api/orders: GET, POST, PUT, DELETE requests to manage medication orders
+**/api/orders*: GET, POST, PUT, DELETE requests to manage medication orders
 
-**/api/statements: GET request to retrieve health statements
+**/api/statements*: GET request to retrieve health statements
 
 **Contributing**
 
